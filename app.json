@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "Cheat_Chat_App",
+    "slug": "Cheat_Chat_App",
+    "android": {
+      "package": "com.sky.chat"
+    }
+  }
+}
